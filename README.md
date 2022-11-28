@@ -2,9 +2,10 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47bq3ne41yb53ldoy4tf1gicm5585eh1g8dvshpla9&rid=200w.webp&ct=g" width="100"/>
 </div>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Tarak karmakar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested to explore new technologies;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
   
 
 ### <div align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready for learning new things. I focus on writing clean, elegant, and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.🚀</div>  
