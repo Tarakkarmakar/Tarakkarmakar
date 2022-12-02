@@ -4,11 +4,11 @@
 </div>
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Tarak karmakar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested to explore new technologies;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Tarak karmakar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻;  Interested to explore new technologies;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
   
 
-### <div align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready for learning new things. I focus on writing clean, elegant, and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.🚀</div>  
+### <div align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready for learning new things. I focus on writing clean, elegant, and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I always try to give my 110% to build my project and try to learn new tools and technology along with.🚀</div>  
   
 
 <br/>  
@@ -43,16 +43,9 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
-
-### DevOps  
-<div align="center">  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
