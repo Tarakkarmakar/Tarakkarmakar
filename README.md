@@ -14,7 +14,7 @@
 <br/>  
 
 <div>
-## My Skill Set  
+  <h1>My Skill Set </h1>
 <table><tr><td valign="top" width="33%">
 
 
