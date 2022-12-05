@@ -13,34 +13,34 @@
 <h3>I am a  aspiring Full Stack Web Developer skilled in MERN Stack . I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience.I always try to solve problem smartly rather than getting stuck in a task.</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tarakkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="Tarakkarmakar /> </p>
 
 <h3 align="left">Git profile Trophies:</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lokesh-patidar" alt="lokesh-patidar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Tarakkarmakar" alt="Tarakkarmakar />
   </a> 
 </p>
 
 
 🔭 I’m currently exploring and polishing my skills
 
-🌍 I'm basically from Madhya Pradesh, India
+🌍 I'm basically from West Bengal, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here](https://lokesh-patidar.github.io/)
+👨‍💻 My Portfilio [Click here](https://Tarakkarmakar.github.io/)
 
 
 
-👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
+👀 My Github Repositories [Click here](https://github.com/Tarakkarmakar?tab=repositories)
 
-🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
+🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
-📧 Email - bansiyalokesh29988@gmail.com
+📧 Email - tarakkarmakar1434@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
-My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
+📄 Know about my skills  [Resume](https://drive.google.com/file/d/1_4phGBk7v2fhXtOsTaN9T-k1n4RcF6QU/view?usp=share_link) 
+My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
 
 HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 
