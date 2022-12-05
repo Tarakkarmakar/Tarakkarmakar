@@ -42,14 +42,14 @@
 📄 Know about my skills  [Resume](https://drive.google.com/file/d/1_4phGBk7v2fhXtOsTaN9T-k1n4RcF6QU/view?usp=share_link) 
 My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
 
-HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
+
 
 
 <p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-patidar-aa45a0236/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarak-karmakar-876758234/) 
 
 <br/>
 
@@ -119,12 +119,12 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Tarakkarmakar/github-readme-stats"><img alt="Tarakkarmakar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarakkarmakar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lokesh-patidar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-patidar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/Tarakkarmakar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tarakkarmakar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarakkarmakar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
@@ -139,7 +139,7 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 <br/>
   
 <p align="center">
-<a href="https://github.com/lokesh-patidar"><span>
+<a href="https://github.com/Tarakkarmakar"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarakkarmakar&theme=dracula" />
 </span></a> </p>
 
@@ -148,7 +148,7 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 
   <br/>
 
-<a href="https://github.com/lokesh-patidar/github-readme-activity-graph"><img alt="lokesh-patidar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lokesh-patidar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Tarakkarmakar/github-readme-activity-graph"><img alt="Tarakkarmakar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tarakkarmakar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
