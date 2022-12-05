@@ -5,12 +5,12 @@
  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Lokesh Patidar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Tarak Karmakar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
-<h3>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h3>
+<h3>I am a  aspiring Full Stack Web Developer skilled in MERN Stack . I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience.I always try to solve problem smartly rather than getting stuck in a task.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
