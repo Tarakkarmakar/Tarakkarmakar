@@ -45,7 +45,7 @@ My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
 
 
 
-<p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
+<p><a href="https://Tarakkarmakar.github.io/">My Portfolio </a></p>
 
 
 ## 🌐 Socials
