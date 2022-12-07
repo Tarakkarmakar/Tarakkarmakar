@@ -155,7 +155,7 @@ My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
   
   <br/>
 
-<a href="https://github.com/lokesh-patidar/github-readme-activity-graph"><img alt="lokesh-patidar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=lokesh-patidar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Tarakkarmakar/github-readme-activity-graph"><img alt="Tarakkarmakar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tarakkarmakar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
