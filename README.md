@@ -31,9 +31,9 @@ I am always ready to take on new challenges, solving problems smartly. I am exci
 
 🌍 I'm basically from West Bengal, India
 
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
+⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
-👨‍💻 My Portfilio--https://Tarakkarmakar.github.io/ [Click here](https://Tarakkarmakar.github.io/)
+👨‍💻 My Portfilio[Click here](https://Tarakkarmakar.github.io/)
 
 
 
@@ -49,7 +49,7 @@ My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
 
 
 
-<p><a href="https://Tarakkarmakar.github.io/">My Portfolio </a></p>
+<p><a href="https://Tarakkarmakar.github.io/">My Portfolio :- https://Tarakkarmakar.github.io/ </a></p>
 
 
 ## 🌐 Socials
