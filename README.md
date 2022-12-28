@@ -10,7 +10,11 @@
 
 
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
-<h3>I am a  aspiring Full Stack Web Developer skilled in MERN Stack . I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience.I always try to solve problem smartly rather than getting stuck in a task.</h3>
+<h3>men
+
+I am an aspiring Full-Stack Web Developer ,skilled in MERN stack with 1200 Hours+ of hands-on experience in building websites with MERN stack, React, JS, and HTML, CSS.
+
+I am always ready to take on new challenges, solving problems smartly. I am excited to start a career as a Full- Stack Developer in a reputed firm driven by technology.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tarakkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="Tarakkarmakar /> </p>
@@ -29,7 +33,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here](https://Tarakkarmakar.github.io/)
+👨‍💻 My Portfilio--https://Tarakkarmakar.github.io/ [Click here](https://Tarakkarmakar.github.io/)
 
 
 
