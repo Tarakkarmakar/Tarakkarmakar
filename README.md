@@ -10,7 +10,7 @@
 
 
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
-<h3>🚀 Meet Tarak Karmakar, a dedicated Full-Stack Web Developer with over 1200 hours of MERN stack mastery, encompassing React, JavaScript, HTML, and CSS. I thrive on solving intricate challenges and embrace innovation.
+<h3>🚀 Meet Tarak Karmakar, a dedicated Full-Stack Web Developer with over 1200+ hours of MERN stack mastery, encompassing React, JavaScript, HTML, and CSS. I thrive on solving intricate challenges and embrace innovation.
 
 🌟 Tech is my passion, and I'm ready to embark on a career as a Full-Stack Developer in a cutting-edge tech-focused company. I bring a creative flair and a relentless drive to push the boundaries of what's possible. Let's collaborate and craft a tech-powered future together! 💻🔥</h3>
 
