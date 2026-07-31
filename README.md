@@ -64,10 +64,5 @@ infrastructure.
 -   Postman
 -   Linux
 
-------------------------------------------------------------------------
 
-## 📊 GitHub Stats
-
-Add your GitHub Stats, Streak Stats, Top Languages, and Activity Graph
-widgets below this section in your profile README.
 
