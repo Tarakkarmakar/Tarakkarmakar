@@ -5,7 +5,8 @@
  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Tarak Karmakar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&background=FFFFFF00&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=720&lines=Hi+I'm+Tarak+Karmakar;Full+Stack+Developer;AI+Automation+Engineer;MERN+%7C+Next.js+%7C+TypeScript;Open+to+Remote+%26+Freelance+Opportunities" />
+  </a>
 </p>
 
 
