@@ -24,27 +24,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Tarakkarmakar" alt="Tarakkarmakar />
   </a> 
 </p>
+## 👨‍💻 About Me
 
-
-🔭 I’m currently exploring and polishing my skills
-
-🌍 I'm basically from West Bengal, India
-
-⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
-
-👨‍💻 My Portfilio[Click here](https://tarak.dev/)
-
-
-
-👀 My Github Repositories [Click here](https://github.com/Tarakkarmakar?tab=repositories)
-
-🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
-
-📧 Email - tarakkarmakar1434@gmail.com
-
-
-My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
-
+- 🔭 Currently building modern **Full Stack** applications and **AI Automation** solutions.
+- 🌱 Continuously learning and improving my skills in **Next.js**, **TypeScript**, **System Design**, and **Cloud Technologies**.
+- 🌍 Based in **West Bengal, India**.
+- 💻 Passionate about building scalable, user-friendly, and high-performance web applications.
+- ⚡ Experienced with **MERN Stack**, **Next.js**, **Astro**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🤖 Building automation workflows using **n8n**, **Make.com**, and **Zapier**.
+- 🚀 Experienced in deploying applications on **Virtual Machines**, integrating **Cross-border Payment Gateways**, and developing secure REST APIs.
+- 📂 **Portfolio:** https://tarak.dev
+- 📚 **GitHub Repositories:** https://github.com/Tarakkarmakar?tab=repositories
+- 📧 **Email:** tarakkarmakar1434@gmail.com
+- 💬 Feel free to reach out if you'd like to collaborate or discuss a project.
 
 
 
