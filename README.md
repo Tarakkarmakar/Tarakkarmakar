@@ -31,7 +31,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
 
-👨‍💻 My Portfilio[Click here](https://Tarakkarmakar.github.io/)
+👨‍💻 My Portfilio[Click here](https://tarak.dev/)
 
 
 
@@ -41,13 +41,13 @@
 
 📧 Email - tarakkarmakar1434@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/1_4phGBk7v2fhXtOsTaN9T-k1n4RcF6QU/view?usp=share_link) 
+
 My Replit Profile: [Click here](https://replit.com/@Tarakkarmakar)
 
 
 
 
-<p><a href="https://Tarakkarmakar.github.io/">My Portfolio :- https://Tarakkarmakar.github.io/ </a></p>
+<p><a href="https://tarak.dev/">My Portfolio :-tarak.dev </a></p>
 
 
 ## 🌐 Socials
